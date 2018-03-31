@@ -1,0 +1,14 @@
+{
+  "name": "tplink_node",
+  "version": "1.0.0",
+  "description": "TPLink HS110 Interface",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashley Williamson",
+  "license": "MIT",
+  "dependencies": {
+    "tplink-smarthome-api": "^0.22.0"
+  }
+}
